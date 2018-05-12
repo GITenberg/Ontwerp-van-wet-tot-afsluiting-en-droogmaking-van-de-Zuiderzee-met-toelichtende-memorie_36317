@@ -1,0 +1,31 @@
+_repo: Ontwerp-van-wet-tot-afsluiting-en-droogmaking-van-de-Zuiderzee-met-toelichtende-memorie_36317
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lely, Cornelis
+    birthdate: 1854
+    deathdate: 1929
+    gutenberg_agent_id: '38193'
+    url: http://www.gutenberg.org/2009/agents/38193
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Cornelis_Lely
+    - http://nl.wikipedia.org/wiki/Cornelis_Lely
+description: ''
+gutenberg_issued: '2011-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36317'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TC'
+- !lcsh 'IJssel Lake (Netherlands)'
+- !lcsh 'Reclamation of land -- Netherlands'
+title: Ontwerp van wet tot afsluiting en droogmaking van de Zuiderzee met toelichtende
+  memorie
+url: http://www.gutenberg.org/ebooks/36317
