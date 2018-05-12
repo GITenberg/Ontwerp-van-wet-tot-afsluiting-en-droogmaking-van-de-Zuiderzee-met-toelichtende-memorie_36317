@@ -14,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Cornelis_Lely
     - http://nl.wikipedia.org/wiki/Cornelis_Lely
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36317#Ontwerp-van-wet-tot-afsluiting-en-droogmaking-van-de-Zuiderzee-met-toelichtende-memorie
 gutenberg_issued: '2011-06-03'
 gutenberg_type: Text
 identifiers:
